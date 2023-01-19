@@ -1,5 +1,5 @@
 # Calvin Anderson, Spring 2023 Homework 2
-# 11/7/2022
+# 01-19-2023
 
 # range(j, k , l)	Identifies a range of integers from j  to k–1 separated by some interval l.
 # 1.
