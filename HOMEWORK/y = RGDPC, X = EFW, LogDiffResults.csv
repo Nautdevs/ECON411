@@ -1,7 +1,7 @@
 ,Beta Estimates,t-stats,p-values,Standard Errors
-Size of Government,-820.38,-2.342,0.019,350.222
-Legal System and Property Rights,6102.025,16.618,0.0,367.185
-Sound Money,2250.754,7.193,0.0,312.911
-Freedom to Trade Internationally,-792.167,-2.133,0.033,371.394
-Regulation,2298.394,4.913,0.0,467.796
-Constant,-39337.402,-11.619,0.0,3385.581
+Size of Government,0.03,3.806,0.0,0.008
+Legal System and Property Rights,0.026,3.0,0.003,0.009
+Sound Money,-0.078,-7.685,0.0,0.01
+Freedom to Trade Internationally,0.144,10.639,0.0,0.014
+Regulation,-0.069,-5.925,0.0,0.012
+Constant,-0.147,-1.193,0.233,0.124
